@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size=4>Amelie Chi Zhou (周池)</font>"
+title: "<font size=8>Amelie Chi Zhou (周池)</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **Ph.D, Assistant Professor.**
+
 College of Computer Science and Software Engineering, Shenzhen University.
 
 A data-driven personal website
