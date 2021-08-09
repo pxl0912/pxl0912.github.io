@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Chi Zhou"
+title                    : "Amelie Chi Zhou"
 title_separator          : "-"
-name                     : &name "Chi Zhou"
+name                     : &name "Amelie Chi Zhou"
 description              : &description "personal description"
 url                      : https://amelieczhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D, Assistant Professor"
+  name             : "Amelie Chi Zhou"
   avatar           : "profile.png"
-  bio              : "College of Computer Science and Software Engineering, Shenzhen University"
+  bio              : "Ph.D, Assistant Professor of CSSE ShenZhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
