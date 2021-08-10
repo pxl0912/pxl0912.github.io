@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Projects and Fundings"
-permalink: /projects/
+permalink: /talks/
 author_profile: true
 ---
 
-https://amelieczhou.github.io/publications/
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
