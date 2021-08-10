@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects and Fundings"
-permalink: /talks/
+permalink: /projects/
 author_profile: true
 ---
 
