@@ -6,16 +6,6 @@ author_profile: true
 ---
 
 
----
-permalink: /
-title: "<font size=6>Amelie Chi Zhou (周池)</font>"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ***
 
 <html>
