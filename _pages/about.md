@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 
 ------------------------------------------------
-
 <html>
 <p><b style="line-height:50%"> Ph.D, Assistant Professor. </b> </p>
 
@@ -25,8 +23,6 @@ redirect_from:
 
 <p><b style="line-height:50%"> Web: http://nhpcc.szu.edu.cn/zhouchi/  </b></p>
 </html>
-
-# 
 ------------------------------------------------
 
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
