@@ -10,19 +10,18 @@ redirect_from:
 
 
 <html>
-<b style="line-height:50%"> Ph.D, Assistant Professor. </b> 
+<p><b style="line-height:50%"> Ph.D, Assistant Professor. </b> </p>
 
-<b style="line-height:50%" >[College of Computer Science and Software Engineering, Shenzhen University.](http://csse.szu.edu.cn/)</b>
+<p><a href="http://csse.szu.edu.cn/" style="line-height:50%">College of Computer Science and Software Engineering, Shenzhen University.</a></p>
 
-<b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, 3688 
+<p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, 3688 </b> </p>
+<p><b width="50%" style="line-height:50%">Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
-Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> 
+<p><b style="line-height:50%"> Email: chi.zhou@szu.edu.cn </b> </p>
 
-<b style="line-height:50%"> Email: chi.zhou@szu.edu.cn </b> 
+<p><b style="line-height:50%"> Phone: +86 (755) 2653 4207  </b></p>
 
-<b style="line-height:50%"> Phone: +86 (755) 2653 4207  </b>
-
-<b style="line-height:50%"> Web: http://nhpcc.szu.edu.cn/zhouchi/  </b>
+<p><b style="line-height:50%"> Web: http://nhpcc.szu.edu.cn/zhouchi/  </b></p>
 </html>
 
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
