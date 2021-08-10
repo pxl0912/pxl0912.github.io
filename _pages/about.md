@@ -47,6 +47,11 @@ TPDS, IEEE TCC and FGCS) and proceedings (such as SC, HPDC, SIGMOD, ICDE, ICDCS,
 and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel in 2018 and leading the
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
 
+Research Interests
+----------
+
+My research interests include cloud computing, high performance computing, big data and resource management. Specifically, I'm interested in designing and building cost-efficient resource management systems for the cloud and HPC, with an emphasis on big data applications.
+
 Recent Highlights
 ----------
 
@@ -79,11 +84,6 @@ Recent Highlights
 * **[Paper]** 2017: Our paper on Efficient Process Mapping in Geo-Distributed Cloud Data Centers is accepted in **<font color=orange>SC 2017</font>**.
 
 * **[Oct 2017]** Start the new journey as an Assistant Professor in Shenzhen University!
-
-Research Interests
-----------
-
-My research interests include cloud computing, high performance computing, big data and resource management. Specifically, I'm interested in designing and building cost-efficient resource management systems for the cloud and HPC, with an emphasis on big data applications.
 
 Selected Awards
 ----------
