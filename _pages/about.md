@@ -14,8 +14,8 @@ redirect_from:
 
 <p><a href="http://csse.szu.edu.cn/" style="line-height:50%">College of Computer Science and Software Engineering, Shenzhen University.</a></p>
 
-<p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, 3688 </b> </p>
-<p><b width="50%" style="line-height:50%">Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
+<p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
+<p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
 <p><b style="line-height:50%"> Email: chi.zhou@szu.edu.cn </b> </p>
 
