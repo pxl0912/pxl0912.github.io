@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "<font size=6>Amelie Chi Zhou (周池)</font>"
 permalink: /home/
 author_profile: true
 ---
