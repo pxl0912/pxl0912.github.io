@@ -35,8 +35,7 @@ of international conferences and journals. I have served as a PC member for inte
 cloud, HPC and parallel and distributed systems (USENIX FAST, ACM/IEEE SC, ACM HPDC, IEEE ICDCS,
 IEEE ICPP, IEEE Cluster, ACM/IEEE CCGrid, ACM CIKM); and as a Program co-chair for the PDSW 2021
 (in conjunction with SC21), IEEE SmartData-2019; and as a Track co-chair for the IEEE HiPC 2020, IEEE
-BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS
-2020. Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for
+BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS 2020. Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for
 the students program of ICPP 2022, and as an editor for the Future Generation Computer Systems journal.
 My current research interests lie in cloud computing, HPC, and file and storage systems. More specifically,
 I’m interested in various resource optimization problems in parallel and distributed systems for efficient and
