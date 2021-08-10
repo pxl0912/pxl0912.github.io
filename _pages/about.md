@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+------------------------------------------------
 
 <html>
 <p><b style="line-height:50%"> Ph.D, Assistant Professor. </b> </p>
