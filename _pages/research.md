@@ -17,8 +17,9 @@ in the wide area. To this end, I focus on characterizing the complicated data co
 data applications and capturing the heterogeneous features of underlying wide area infrastructures; and on
 designing new data management approaches to improve the performance and cost efficiency of data-intensive
 applications, considering data privacy concerns.
-Refereed Publications in Journals 9 (6 A∗ 1
-, 1 A , 2 JCR-Q1)
+
+&nbsp; <div style="text-align: left"> Refereed Publications in Journals </div> <div style="text-align: right"> 9 (6 $A^∗$ 1, 1 A , 2 JCR-Q1) </div>
+
 Refereed Publications in Book Chapters 1
 Refereed Publications in Conference Proceedings 16 (2 A∗
 , 10 A )
