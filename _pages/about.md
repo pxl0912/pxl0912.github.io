@@ -156,3 +156,50 @@ Please see full list [here](https://amelieczhou.github.io/publications/)
 * **[CloudCom] Amelie Chi Zhou**, Bingsheng He, Simplified Resource Provisioning for Workflows in IaaS Clouds, in CloudCom 2014, **Best PhD Consortium Award**, Singapore, Dec 2014.
 
 * **[TCC] Amelie Chi Zhou**, Bingsheng He, Transformation-based Monetary Cost Optimizations for Workflows in the Cloud, in IEEE TCC 2(1): 85-98 (2014), **Spotlight article of the issue, invited presentation in IEEE CloudCom 2014**.
+
+Selected Scholarly Addresses
+---
+
+* **Invited talks and tutorials**
+
+  * **[SA7]** Efficient Partitioning for Large Graphs in Geo-Distributed Environments. **Invited talk** at Tianjing
+University, online, Dec 2020.
+
+  * **[SA6]** Parallel Computing and It’s Application to Engineering Modeling. **Invited tutorial** (two days) at
+China Nuclear Power Design Company, Shenzhen, Oct 2019.
+
+  * **[SA5]** Privacy-Aware Process Mapping in Geo-Distributed Cloud Data Centers. **Invited talk** at DL4Sci
+workshop, colocated with HPCAsia’19, Guangzhou, China, Jan 2019.
+
+  * **[SA4]** Simplified and Effective Resource Provisioning for Scientific Workflows in IaaS Clouds. **Invited talk**
+at Anhui Jianzhu University, Hefei, China, March 2018.
+
+  * **[SA3]** Efficient Process Mapping in Geo-Distributed Cloud Data Centers. **Invited talk** at Shenzhen Institutes
+of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China, Dec 2017.
+
+  * **[SA2]** Effective and Simplified Big Data Management on Clouds. **Invited talk** at Beihang University Vision
+Forum for International Young Scholars, Beijing, China, May 2017.
+
+  * **[SA1]** Monetary Cost Optimizations for Workflows in the IaaS Cloud. **Invited talk** at Argonne National
+Laboratory, Chicago, USA, May 2014.
+
+* **Conference talks**
+
+  * **[CT7]** Energy-Efficient Speculative Execution using Advanced Reservation for Heterogeneous Clusters. ICPP’18,
+Eugene, OR, USA, Aug 2018.
+
+  * **[CT6]** Efficient Process Mapping in Geo-Distributed Cloud Data Centers. SC’17, Denver, CO, USA, Nov 2017.
+
+  * **[CT5]** On Achieving Efficient Data Transfer for Graph Processing in Geo-Distributed Datacenters. ICDCS’17,
+Atlanta, GA, USA, Jun 2017.
+
+  * **[CT4]** Incorporating Probabilistic Optimizations for Resource Provisioning of Cloud Workflow Processing.
+5th JLESC Workshop, Lyon, France, Jun 2016.
+
+  * **[CT3]** A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in IaaS Clouds.
+HPDC’15, Portland, USA, June 2015.
+
+  * **[CT2]** Transformation-based Monetary Cost Optimizations for Workflows in the Cloud. Invited IEEE TCC
+Paper Presentation at CloudCom’14, Singapore, Dec 2014.
+
+  * **[CT1]** Simplified Resource Provisioning for Workflows in IaaS Clouds. CloudCom’14 PhD Consortium, Singapore, Dec 2014.
