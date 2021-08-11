@@ -19,16 +19,16 @@ data applications and capturing the heterogeneous features of underlying wide ar
 designing new data management approaches to improve the performance and cost efficiency of data-intensive
 applications, considering data privacy concerns.
 
-&nbsp; Refereed Publications in Journals               9 (6 $A^∗$ 1, 1 A , 2 JCR-Q1)
+&nbsp; Refereed Publications in Journals   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 (6 $A^∗$ 1, 1 A , 2 JCR-Q1)
 
-Refereed Publications in Book Chapters                                             1
+&nbsp; Refereed Publications in Book Chapters  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1
 
-Refereed Publications in Conference Proceedings                     16 (2 A∗, 10 A )
+&nbsp; Refereed Publications in Conference Proceedings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 (2 A∗, 10 A )
 
-Refereed Publications in Conference without Proceedings                            4
+&nbsp; Refereed Publications in Conference without Proceedings                                   4
 
-H-Index computed by Google Scholar Citations                    11 (as of July 2021)
+&nbsp; H-Index computed by Google Scholar Citations                           11 (as of July 2021)
 
-Total citations by Google Scholar Citations                    444 (as of July 2021)
+&nbsp; Total citations by Google Scholar Citations                           444 (as of July 2021)
 
-[^1]: The ranking is based on the CORE’s journals and conferences ranking https://www.core.edu.au/conference-portal
+&nbsp; &nbsp; &^1&The ranking is based on the CORE’s journals and conferences ranking https://www.core.edu.au/conference-portal
