@@ -38,12 +38,12 @@ Professional Experience
 * **Nanyang Technological University, Singapore**
   * Ph.D. Student 2011 - 2016
   
-Honors and Awards
+<span id="honors">Honors</span> and Awards
 ---
 
 **(I). Tencent “Rhino-bird” Open-Funded Young Researcher Award**, 2020.
 
-> <span id="honors">The</span> “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in
+> The “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in
 computer science in 2020) carrying out frontier scientific research.
 
 **(II). Outstanding Student Advisor of Shenzhen University** for my work as the head student advisor of
