@@ -8,7 +8,7 @@ author_profile: true
 Tencent “Rhino-bird” Research Fund (2020 – 2022)
 ---
 
-_Single PI_
+**_Single PI_**
 
 This project is granted to the recipients of Tencent “Rhino-bird” Open-Funded Young Researcher Award
 to support young faculties exploring innovative ideas in different disciplines. There are only two recipients
@@ -18,7 +18,7 @@ and privacy-preserving big data systems running in multiple data centers. **(Bud
 NSFC Young Scientists Fund (2019 – 2021)
 ---
 
-_Single PI_
+**_Single PI_**
 
 This project aims at tackling the challenges of running scientific applications in the cloud, including 
 single cloud region and multiple geo-distributed cloud regions. This project provide performance and cost 
@@ -28,7 +28,7 @@ dependencies. **(Budget: 260,000 CNY, with a competitive funding rate of 25.5% n
 Shenzhen Overseas High-Caliber Personnel (2019 – 2021)
 ---
 
-_Single PI_
+**_Single PI_**
 
 The Shenzhen Overseas High-Caliber Personnel is an individual research project granted to researchers
 with high quality research records and good research potential. This project aims at addressing the
@@ -40,7 +40,7 @@ industry such as Alibaba. **(Budget: 2,700,000 CNY)**
 Shenzhen STI Free Exploration Project (2019 – 2021)
 ---
 
-_Single PI_
+**_Single PI_**
 
 The Shenzhen STI Free Exploration Project is granted to young and potential researchers to perform
 basic research in areas where they found important. This project targets at the system challenges in wide
@@ -50,7 +50,7 @@ area network and aims at designing new method to improve system efficiency for g
 NSFC-Guangdong Young Scientists Fund (2018 – 2020)
 ---
 
-_Single PI_
+**_Single PI_**
 
 This project targets at the timely and important data privacy issues. It aims at optimizing the resource
 management problem for large-scale big data applications in geo-distributed clouds, where the network
