@@ -11,11 +11,11 @@ Refereed Journal Articles
 **[J9]** Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach.
 **Amelie Chi Zhou**, Weilin Xue, Yao Xiao, Bingsheng He, Shadi Ibrahim and Reynold Cheng.
-IEEE Trans. Parallel Distributed Syst. PrePrints pp. 1-1 (TPDS 2021) ( **A<sup>*</sup>** )<span style="color:red;">这是比font标签更好的方式。可以试试。A<sup>*</sup></span>
+IEEE Trans. Parallel Distributed Syst. PrePrints pp. 1-1 (TPDS 2021) ( <span style="color:red;">A<sup>*</sup></span>)
 
 **[J8]** An Efficient Parallel Secure Machine Learning Framework on GPUs.
 Feng Zhang, Zheng Chen, Chenyang Zhang, **Amelie Chi Zhou**, Jidong Zhai, Xiaoyong Du.
-IEEE Trans. Parallel Distributed Syst. 32(9): 2262-2276 (TPDS 2021) ( A<sup>*</sup> )
+IEEE Trans. Parallel Distributed Syst. 32(9): 2262-2276 (TPDS 2021) ( <span style="color:red;">A<sup>*</sup></span> )
 
 **[J7]** Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters.
 **Amelie Chi Zhou**, Bingkun Shen, Yao Xiao, Shadi Ibrahim, Bingsheng He.
