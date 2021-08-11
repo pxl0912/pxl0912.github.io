@@ -68,3 +68,26 @@ Provisioning for Workflows in IaaS Clouds”, Singapore, Dec. 2014.
 
 **(IX). Research Scholarship**, Nanyang Technological University, 2011.
 
+ Professional Service Activities
+ ---
+ 
+* **Journal Editorships**
+  * **Editor** of the Springer Future Generation Computer Systems (SCI Index, IF=7.19). Started in 2021
+
+* **Conference Organizers and Chairs**
+  * **Track Vice-Chair** of the Machine Learning with HPC Track, IEEE/ACM International Conference for High
+Performance Computing, Networking, Storage, and Analysis (**SC 2022**).
+  * **Student Program Co-Chair** of International Conference on Parallel Processing (**ICPP 2022**).
+  * **Program Co-Chair** of 6th International Parallel Data Systems Workshop (**PDSW@SC2021**), Nov 2021,
+St. Louis, Missouri, USA.
+  * **Panel Vice-Chair** of IEEE/ACM International Conference for High Performance Computing, Networking,
+Storage, and Analysis (**SC 2021**), Nov 2021, St. Louis, Missouri, USA.
+  * **Track Co-Chair** of Scalable Algorithms and Analytics Track, 27th IEEE International Conference on High
+Performance Computing, Data, and Analytics (**HiPC 2020**), Dec 2020.
+  * **Posters and Demo Co-Chair** of IEEE International Conference on Distributed Computing Systems (**ICDCS
+2020**), July 2020, Singapore.
+  * **Program Co-Chair** of IEEE International Conference on Smart Data (**SmartData-2019**), July 2019, Atlanta, Georgia, USA.
+  * **Track Co-Chair** of Big Data Applics. and Experiences Track, IEEE BigData Congress 2018, July 2018, San
+Francisco, CA, USA.
+  * **Local Co-Chair**, IEEE International Conference on Cloud Computing Technology and Science (**CloudCom
+2014**), Dec 2014, Singapore.
