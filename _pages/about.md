@@ -81,6 +81,8 @@ Recent Highlights
 Selected Awards
 ----------
 
+Please see full honors [here](https://amelieczhou.github.io/cv/#Honors and Awards)
+
 * IEEE Outstanding Leadership Award, IEEE SmartData 2019
 * INRIA Postdoctoral Fellowship
 * Spotlight Article Recipient, IEEE Transactions on Cloud Computing
@@ -94,7 +96,7 @@ Selected Awards
 Selected Publications
 ----------
 
-Please see full list at [DBLP](https://dblp.org/pers/z/Zhou:Amelie_Chi) and [Google Scholar](http://scholar.google.com/citations?user=pR-IEhcAAAAJ&hl=en)
+Please see full list [here](https://amelieczhou.github.io/publications/)
 
 * **[TPDS] Amelie Chi Zhou**, Bingkun Shen, Yao Xiao, Shadi Ibrahim, Bingsheng He: Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters. IEEE Trans. Parallel Distrib. Syst. 31(7): 1707-1723 (2020)
 
