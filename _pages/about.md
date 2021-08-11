@@ -81,7 +81,7 @@ Recent Highlights
 Selected Awards
 ----------
 
-Please see full honors [here](https://amelieczhou.github.io/cv/#Honors and Awards)
+Please see full honors [here](https://amelieczhou.github.io/cv/#honors)
 
 * IEEE Outstanding Leadership Award, IEEE SmartData 2019
 * INRIA Postdoctoral Fellowship
