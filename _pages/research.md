@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -18,7 +19,7 @@ data applications and capturing the heterogeneous features of underlying wide ar
 designing new data management approaches to improve the performance and cost efficiency of data-intensive
 applications, considering data privacy concerns.
 
-&nbsp; <div style="text-align: left"> Refereed Publications in Journals </div> <div style="text-align: right"> 9 (6 $A^∗$ 1, 1 A , 2 JCR-Q1) </div>
+&nbsp; <html><div style="text-align: left"> Refereed Publications in Journals </div> <div style="text-align: right"> 9 (6 $A^∗$ 1, 1 A , 2 JCR-Q1) </div></html>
 
 Refereed Publications in Book Chapters 1
 Refereed Publications in Conference Proceedings 16 (2 A∗
