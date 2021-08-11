@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<p><b style="line-height:50%"> Email: <a href="chi.zhou@szu.edu.cn">chi.zhou@szu.edu.cn </a></b> </p>
+<p><b style="line-height:50%"> Email: <a href="mailto:chi.zhou@szu.edu.cn">chi.zhou@szu.edu.cn</a> </b> </p>
 
 <p><b style="line-height:50%"> Phone: +86 (755) 2653 4207  </b></p>
 
