@@ -39,11 +39,11 @@ Professional Experience
   * Ph.D. Student 2011 - 2016
   
 Honors and Awards
---
+---
 
 **(I). Tencent “Rhino-bird” Open-Funded Young Researcher Award**, 2020.
 
-> The “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in
+> <span id="honors">The</span> “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in
 computer science in 2020) carrying out frontier scientific research.
 
 **(II). Outstanding Student Advisor of Shenzhen University** for my work as the head student advisor of
@@ -68,8 +68,9 @@ Provisioning for Workflows in IaaS Clouds”, Singapore, Dec. 2014.
 
 **(IX). Research Scholarship**, Nanyang Technological University, 2011.
 
- Professional Service Activities
- ---
+
+Professional Service Activities
+---
  
 * **Journal Editorships**
   * **Editor** of the Springer Future Generation Computer Systems (SCI Index, IF=7.19). Started in 2021
