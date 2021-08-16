@@ -20,7 +20,7 @@ redirect_from:
 ><p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
-[深大超算队招新.](https://amelieczhou.github.io/recruiting/)
+[深大超算队招新](https://amelieczhou.github.io/recruiting/)
 
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
