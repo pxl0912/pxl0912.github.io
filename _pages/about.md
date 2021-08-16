@@ -20,6 +20,9 @@ redirect_from:
 ><p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
+Short Bio
+----------
+
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
 Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France. Since October 2017, I
@@ -31,8 +34,7 @@ of international conferences and journals. I have served as a PC member for inte
 cloud and parallel and distributed systems (USENIX FAST, ACM/IEEE SC, ACM HPDC, IEEE ICDCS,
 IEEE ICPP, IEEE Cluster, ACM/IEEE CCGrid, ACM CIKM); and as a Program co-chair for the PDSW 2021
 (in conjunction with SC21), IEEE SmartData-2019; and as a Track co-chair for the IEEE HiPC 2020, IEEE
-BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS 2020. Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for
-the students program of ICPP 2022, and as an editor for the Future Generation Computer Systems journal.
+BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS 2020. Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for the students program of ICPP 2022, and as an editor for the Future Generation Computer Systems journal.
 My current research interests lie in cloud computing, HPC, and file and storage systems. More specifically,
 I’m interested in various resource optimization problems in parallel and distributed systems for efficient and
 scalable big data management. My papers are published in prestigious international journals (such as IEEE
@@ -45,7 +47,7 @@ Research Interests
 
 My research interests include cloud computing, high performance computing, big data and resource management. Specifically, I'm interested in designing and building cost-efficient resource management systems for the cloud and HPC, with an emphasis on big data applications.
 
-[深大超算队招新](https://amelieczhou.github.io/recruiting/)
+[深大超算队招新(SZU-HPC Team is recruiting!)](https://amelieczhou.github.io/recruiting/)
 ----
 
 Recent Highlights
@@ -54,12 +56,12 @@ Recent Highlights
 
 * **[Student Program Co-Chair]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
 
-* **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
-
 * **[Paper]** 2021: Our paper on Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 
 * **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>USENIX FAST 2022</font>** .
+
+* **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
 
 * **[Panels Vice-Chair]** Invited to serve as a Vice-Chair for the Panels of **<font color=orange>SC 2021</font>**.
 
