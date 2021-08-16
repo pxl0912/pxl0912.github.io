@@ -8,6 +8,11 @@ author_profile: true
 Curriculum and Course Development
 ---
 
+Co-Create the Shenzhen University High Performance Computing Team (with Dr. Gang Liu) for student
+cluster competitions. Give training courses to team members and lead the team participating both
+national and international competition events including the [Parallel Application Challenge (PAC)](http://www.pac-hpc.com/index.php) and
+[ASC Student Competition](http://www.asc-events.net/).
+
 Co-Develop the curriculum for the artificial intelligence (AI) specialization for the software engineering
 program at CSSE, Shenzhen University, 2020.
 
@@ -67,9 +72,13 @@ Construction Bank**. Contributions: System prototypes.
 
 Advised Student Honors
 ---
+Ms. Jiexin Chen and Mr. Jiarong Zhong won **Honorable Mention** in the Interdisciplinary Contest in
+Modeling (ICM) in 2020.
 
 Mr. Yao Xiao is awarded the **Distinguished Graduate Student** of Shenzhen university in 2019. (10 out of
 112)
 
-Ms. Jiexin Chen and Mr. Jiarong Zhong won **Honorable Mention** in the Interdisciplinary Contest in
-Modeling (ICM) in 2020.
+The SZU-HPC Team won **3rd prize** in the Optimization track of the Parallel Application Challenge (PAC)
+2017 and 2018.
+
+
