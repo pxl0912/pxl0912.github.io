@@ -26,9 +26,9 @@ Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France.
 joined Shenzhen University as an Assistant Professor. I’m also a member of the National High Performance
 Computing Center (NHPCC) at Shenzhen.
 
-I have been actively serving the HPC community by participating in the organizing and reviewing activities
-of international conferences and journals. I have served as a PC member for international conferences in
-cloud, HPC and parallel and distributed systems (USENIX FAST, ACM/IEEE SC, ACM HPDC, IEEE ICDCS,
+I have been actively serving the community by participating in the organizing and reviewing activities
+of international conferences and journals. I have served as a PC member for international conferences in HPC,
+cloud and parallel and distributed systems (USENIX FAST, ACM/IEEE SC, ACM HPDC, IEEE ICDCS,
 IEEE ICPP, IEEE Cluster, ACM/IEEE CCGrid, ACM CIKM); and as a Program co-chair for the PDSW 2021
 (in conjunction with SC21), IEEE SmartData-2019; and as a Track co-chair for the IEEE HiPC 2020, IEEE
 BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS 2020. Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for
@@ -40,43 +40,44 @@ TPDS, IEEE TCC and FGCS) and proceedings (such as SC, HPDC, SIGMOD, ICDE, ICDCS,
 and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel in 2018 and leading the
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
 
-[深大超算队招新](https://amelieczhou.github.io/recruiting/)
-----
-
 Research Interests
 ----------
 
 My research interests include cloud computing, high performance computing, big data and resource management. Specifically, I'm interested in designing and building cost-efficient resource management systems for the cloud and HPC, with an emphasis on big data applications.
 
+[深大超算队招新](https://amelieczhou.github.io/recruiting/)
+----
 
 Recent Highlights
 ----------
-* **[Program Committee]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
+* **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
 
-* **[Program Committee]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
+* **[Student Program Co-Chair]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
 
-* **[Program Committee]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
+* **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
 
 * **[Paper]** 2021: Our paper on Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 
-* **[Program Committee]** Invited to serve as a Panels Co-Chair of **<font color=orange>SC 2021</font>**.
+* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>USENIX FAST 2022</font>** .
 
-* **[Program Committee]** Invited to serve as a Track Co-Chair for the Scalable Algorithms and Analytics Track of **<font color=orange>HiPC 2020</font>** .
+* **[Panels Vice-Chair]** Invited to serve as a Vice-Chair for the Panels of **<font color=orange>SC 2021</font>**.
+
+* **[Track Co-Chair]** Invited to serve as a Track Co-Chair for the Scalable Algorithms and Analytics Track of **<font color=orange>HiPC 2020</font>** .
 
 * **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>SC 2020, Cluster 2020 and CCGrid 2020</font>** .
 
-* **[Paper]** 2020: Our paper on Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters is accepted by **<font color=orange>TPDS</font>**.
+* **[Paper]** 2020: Our paper on Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters is accepted by **<font color=orange>IEEE TPDS</font>**.
 
 * **[Paper]** 2019: Our paper on Incorporating Probabilistic Optimizations for Resource Provisioning of Data Processing Workflows is accepted by **<font color=orange>ICPP 2019</font>**.
 
-* **[Paper]** 2019: Our paper on Privacy Regulation Aware Process Mapping in Geo-Distributed Cloud Data Centers is accepted by **<font color=orange>TPDS</font>**.
+* **[Paper]** 2019: Our paper on Privacy Regulation Aware Process Mapping in Geo-Distributed Cloud Data Centers is accepted by **<font color=orange>IEEE TPDS</font>**.
 
 * **[Paper]** 2019: Our paper on Scaling Data Stream Processing on Shared-Memory Multicore Architectures is accepted by **<font color=orange>SIGMOD 2019</font>**.
 
-* **[Program Committee]** Invited to serve on the Posters and Demo Co-Chair of **<font color=orange>ICDCS 2020</font>** .
+* **[Posters and Demo Co-Chair]** Invited to serve on the Posters and Demo Co-Chair of **<font color=orange>ICDCS 2020</font>** .
 
-* **[Program Committee]** Invited to serve as a Program Co-Chair of **<font color=orange>SmartData-2019</font>** .
+* **[Program Co-Chair]** Invited to serve as a Program Co-Chair of **<font color=orange>SmartData-2019</font>** .
 
 
 <!---
