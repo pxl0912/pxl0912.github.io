@@ -25,8 +25,8 @@ Bio
 ----------
 
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
-Nanyang Technological University (NTU) in 2016, under the supervision of <a href=https://www.comp.nus.edu.sg/~hebs/>Dr. Bingsheng He</a>. 
-From May 2016 to August 2017, I was a Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, working with <a href=https://people.rennes.inria.fr/Shadi.Ibrahim/>Dr. Shadi Ibrahim</a>. 
+Nanyang Technological University (NTU) in 2016, under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Dr. Bingsheng He</a>. 
+From May 2016 to August 2017, I was a Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, working with <a href="https://people.rennes.inria.fr/Shadi.Ibrahim/">Dr. Shadi Ibrahim</a>. 
 Since October 2017, I joined Shenzhen University as an Assistant Professor. I’m also a member of the National High Performance
 Computing Center (NHPCC) at Shenzhen.
 
