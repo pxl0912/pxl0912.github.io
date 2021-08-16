@@ -82,7 +82,7 @@ Recent Highlights
 
 * **[Oct 2017]** Start the new journey as an Assistant Professor in Shenzhen University!
 
-[以下以tab键对准为注释内容]:
+<!---
   Selected Awards
   ----------
   
@@ -193,3 +193,4 @@ Recent Highlights
   Paper Presentation at CloudCom’14, Singapore, Dec 2014.
   
     * **[CT1]** Simplified Resource Provisioning for Workflows in IaaS Clouds. CloudCom’14 PhD Consortium, Singapore, Dec 2014.
+-->
