@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "CV"
@@ -139,3 +140,5 @@ HPDC’15, Portland, USA, June 2015.
 Paper Presentation at CloudCom’14, Singapore, Dec 2014.
 
   * **[CT1]** Simplified Resource Provisioning for Workflows in IaaS Clouds. CloudCom’14 PhD Consortium, Singapore, Dec 2014.
+
+-->
