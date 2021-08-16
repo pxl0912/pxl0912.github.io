@@ -51,6 +51,14 @@ My research interests include cloud computing, high performance computing, big d
 
 Recent Highlights
 ----------
+* **[Program Committee]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **SC 2022**.
+
+* **[Program Committee]** Invited to serve as Student Program Co-Chair of **ICPP 2022**.
+
+* **[Program Committee]** Invited to serve as Program Co-Chair of **PDSW@SC2021**.
+
+* **[Paper]** 2021: Our paper on Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
+Approach is accepted by **IEEE TPDS**.
 
 * **[Program Committee]** Invited to serve as a Panels Co-Chair of **SC 2021**.
 
@@ -70,17 +78,6 @@ Recent Highlights
 
 * **[Program Committee]** Invited to serve as a Program Co-Chair of **<font color=orange>SmartData-2019</font>** .
 
-* **[Paper]** 2018: Our paper on Energy-Efficient Speculative Execution using Advanced Reservation for Heterogeneous Clusters is accepted in **<font color=orange>ICPP 2018</font>**.
-
-* **[Program Committee]** Invited to serve on the Program Committee of **Cluster'18, ICPADS'18 and NPC'18** .
-
-* **[Program Committee]** Invited to serve on the Workshop and Poster Committee of **SC 2018** .
-
-* **[Program Committee]** Invited to serve on the Poster Committee of **HPDC 2018** .
-
-* **[Paper]** 2017: Our paper on Efficient Process Mapping in Geo-Distributed Cloud Data Centers is accepted in **<font color=orange>SC 2017</font>**.
-
-* **[Oct 2017]** Start the new journey as an Assistant Professor in Shenzhen University!
 
 <!---
   Selected Awards
