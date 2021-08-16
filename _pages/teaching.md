@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I teach both undergraduate and graduate courses for CS and non-CS students. I have several topics for Final Year Projects in HPC and cloud computing. Please contact me if you are interested.
+
 Curriculum and Course Development
 ---
 
@@ -70,6 +72,7 @@ Graduated with Master’s Degree
 >Thesis: Interference-Aware I/O Scheduling for SSD-based Burst Buffers. **Now an engineer at China
 Construction Bank**. Contributions: System prototypes.
 
+<!--
 Advised Student Honors
 ---
 Ms. Jiexin Chen and Mr. Jiarong Zhong won **Honorable Mention** in the Interdisciplinary Contest in
@@ -80,5 +83,6 @@ Mr. Yao Xiao is awarded the **Distinguished Graduate Student** of Shenzhen unive
 
 The SZU-HPC Team won **3rd prize** in the Optimization track of the Parallel Application Challenge (PAC)
 2017 and 2018.
+-->
 
 
