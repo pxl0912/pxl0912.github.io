@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publication list: <a href=https://dblp.org/pid/131/6619.html>Entry@DBLP</a>, <a href=https://bit.ly/3xRbBoY>Google scholar</a>.
+My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>, <a href="https://bit.ly/3xRbBoY">Google scholar</a>.
 
 Refereed Journal Articles
 ----------
@@ -48,7 +48,7 @@ IEEE Trans. Parallel Distrib. Syst. 26(1): 152-162 (**TPDS 2015**)
 **Amelie Chi Zhou**, Bingsheng He.
 IEEE Trans. Cloud Comput. 2(1): 85-98 (**TCC 2014**) 
 
-Spotlight article of the issue, invited presentation at IEEE CloudCom 2014.
+<span style="color:red;">Spotlight article of the issue, invited presentation at IEEE CloudCom 2014.</span>
 
 Refereed Book Chapters
 ---
