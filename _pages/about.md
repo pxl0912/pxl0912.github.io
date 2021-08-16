@@ -51,26 +51,26 @@ My research interests include cloud computing, high performance computing, big d
 
 Recent Highlights
 ----------
-* **[Program Committee]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **SC 2022**.
+* **[Program Committee]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
 
-* **[Program Committee]** Invited to serve as Student Program Co-Chair of **ICPP 2022**.
+* **[Program Committee]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
 
-* **[Program Committee]** Invited to serve as Program Co-Chair of **PDSW@SC2021**.
+* **[Program Committee]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
 
 * **[Paper]** 2021: Our paper on Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
-Approach is accepted by **IEEE TPDS**.
+Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 
-* **[Program Committee]** Invited to serve as a Panels Co-Chair of **SC 2021**.
+* **[Program Committee]** Invited to serve as a Panels Co-Chair of **<font color=orange>SC 2021</font>**.
 
 * **[Program Committee]** Invited to serve as a Track Co-Chair for the Scalable Algorithms and Analytics Track of **<font color=orange>HiPC 2020</font>** .
 
-* **[Program Committee]** Invited to serve on the Program Committee of **SC 2020, Cluster 2020 and CCGrid 2020** .
+* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>SC 2020, Cluster 2020 and CCGrid 2020</font>** .
 
-* **[Paper]** 2020: Our paper on Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters is accepted by **TPDS**.
+* **[Paper]** 2020: Our paper on Cost-Aware Partitioning for Efficient Large Graph Processing in Geo-Distributed Datacenters is accepted by **<font color=orange>TPDS</font>**.
 
 * **[Paper]** 2019: Our paper on Incorporating Probabilistic Optimizations for Resource Provisioning of Data Processing Workflows is accepted by **<font color=orange>ICPP 2019</font>**.
 
-* **[Paper]** 2019: Our paper on Privacy Regulation Aware Process Mapping in Geo-Distributed Cloud Data Centers is accepted by **TPDS**.
+* **[Paper]** 2019: Our paper on Privacy Regulation Aware Process Mapping in Geo-Distributed Cloud Data Centers is accepted by **<font color=orange>TPDS</font>**.
 
 * **[Paper]** 2019: Our paper on Scaling Data Stream Processing on Shared-Memory Multicore Architectures is accepted by **<font color=orange>SIGMOD 2019</font>**.
 
