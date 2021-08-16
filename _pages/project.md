@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+I'm currently leading the Parallel and Distributed Systems Team (PDST) at Shenzhen University. The research goal of the team is to make efficient, scalable and secure data management systems for big data applications in the wide area. To this end, we focus on characterizing the complicated data communication patterns of big data applications and capturing the heterogeneous features of underlying wide area infrastructures; and on designing new data management approaches to improve the performance and cost efficiency of data-intensive applications, considering data privacy concerns.
+
+We are honored to be funded by the following grants.
+
 Tencent “Rhino-bird” Research Fund (2020 – 2022)
 ---
 
