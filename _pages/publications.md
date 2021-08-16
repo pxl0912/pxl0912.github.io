@@ -47,7 +47,6 @@ IEEE Trans. Parallel Distrib. Syst. 26(1): 152-162 (**TPDS 2015**)
 **[J1]** Transformation-Based Monetary Cost Optimizations for Workflows in the Cloud.
 **Amelie Chi Zhou**, Bingsheng He.
 IEEE Trans. Cloud Comput. 2(1): 85-98 (**TCC 2014**) 
-
 <span style="color:red;">Spotlight article of the issue, invited presentation at IEEE CloudCom 2014.</span>
 
 Refereed Book Chapters
