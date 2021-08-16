@@ -10,19 +10,19 @@ I teach both undergraduate and graduate courses for CS and non-CS students. I ha
 Curriculum and Course Development
 ---
 
-Co-Create the Shenzhen University High Performance Computing Team (with Dr. Gang Liu) for student
+Co-Create the **Shenzhen University High Performance Computing Team** (with Dr. Gang Liu) for student
 cluster competitions. Give training courses to team members and lead the team participating both
 national and international competition events including the [Parallel Application Challenge (PAC)](http://www.pac-hpc.com/index.php) and
 [ASC Student Competition](http://www.asc-events.net/).
 
-Co-Develop the curriculum for the artificial intelligence (AI) specialization for the software engineering
+Co-Develop the curriculum for the **artificial intelligence (AI) specialization** for the software engineering
 program at CSSE, Shenzhen University, 2020.
 
 New course material development:
 
-* Parallel Computing: build new labs (18 hours) and lecture slides.
+* **Parallel Computing**: build new labs (18 hours) and lecture slides.
 
-* Cloud Computing Engineering: build new labs (36 hours) and lecture slides, developed for the AI
+* **Cloud Computing Engineering**: build new labs (36 hours) and lecture slides, developed for the AI
 specialization program.
 
 Courses Taught
@@ -30,23 +30,27 @@ Courses Taught
 
 **Undergraduate Courses:**
 
->**Parallel Computing (2018 - 2019 Spring, 2019 - 2020 Fall)**
->> Typical class size: 30 – 60, designed for the special class in high performance computing.
-Textbook: Parallel Computing - Structures, Algorithms, Programming, CHEN Guoliang.
+* **Parallel Computing** (2018 - 2019 Spring, 2019 - 2020 Fall)
+> Typical class size: 30 – 60, designed for the special class in high performance computing.
+>
+> Textbook: Parallel Computing - Structures, Algorithms, Programming, CHEN Guoliang.
 
->**Computer Systems (II) (2019 - 2020 Spring, 2020 - 2021 Spring)**
->> Typical class size: 30 – 60, designed for year 2 CS students.
-Textbook: Computer Systems: A Programmer’s Perspective, Randal E. Bryant.
+* **Computer Systems (II)** (2019 - 2020 Spring, 2020 - 2021 Spring)
+> Typical class size: 30 – 60, designed for year 2 CS students.
+> 
+> Textbook: Computer Systems: A Programmer’s Perspective, Randal E. Bryant.
 
->**Computer Systems (III) (2018 - 2019 Fall, 2020 - 2021 Fall)**
->> Typical class size: 30 – 60, designed for year 3 CS students.
-Textbook: Computer Organization and Design: The Hardware/Software Interface, Patterson, Hennessy.
+* **Computer Systems (III)** (2018 - 2019 Fall, 2020 - 2021 Fall)
+> Typical class size: 30 – 60, designed for year 3 CS students.
+> 
+> Textbook: Computer Organization and Design: The Hardware/Software Interface, Patterson, Hennessy.
 
 **Master Courses**
 
->**Combinatorial Mathematics (2018 - 2019 Spring, 2019 - 2020 Spring)**
->>Typical class size: 100 – 200, core course for year 1 master students.
-Textbook: Introductory Combinatorics, Richard A.Brualdi.
+* **Combinatorial Mathematics** (2018 - 2019 Spring, 2019 - 2020 Spring)
+> Typical class size: 100 – 200, core course for year 1 master students.
+> 
+> Textbook: Introductory Combinatorics, Richard A.Brualdi.
 
 Supervision
 ---
