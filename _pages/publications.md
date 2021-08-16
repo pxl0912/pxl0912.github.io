@@ -7,7 +7,7 @@ author_profile: true
 
 My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>, <a href="https://bit.ly/3xRbBoY">Google scholar</a>.
 
-Refereed Journal Articles
+Journal Articles
 ----------
 
 **[J9]** Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
@@ -49,15 +49,7 @@ IEEE Trans. Parallel Distrib. Syst. 26(1): 152-162 (**TPDS 2015**)
 IEEE Trans. Cloud Comput. 2(1): 85-98 (**TCC 2014**) 
 <span style="color:red;">Spotlight article of the issue, invited presentation at IEEE CloudCom 2014.</span>
 
-Refereed Book Chapters
----
-
-**[BC1]** A Taxonomy and Survey of Scientific Computing in the Cloud.
-**Amelie Chi Zhou**, Bingsheng He, Shadi Ibrahim.
-Full chapter in Big Data: Principle and Paradigms, Wiley press, 2016
-
-
-Refereed Conference Papers
+Conference Papers
 ---
 
 **[C16]** ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs.
@@ -126,10 +118,16 @@ The 2015 International Conference for High Performance Computing, Networking, St
 **[C1]** Simplified Resource Provisioning for Workflows in IaaS Clouds.
 **Amelie Chi Zhou**, Bingsheng He.
 The 6th IEEE International Conference on Cloud Computing Technology and Science (**CloudCom 2014**)
-
 <span style="color:red;">Best PhD Consortium Award</span>
 
-Refereed Posters in Conference without Proceedings
+Book Chapters
+---
+
+**[BC1]** A Taxonomy and Survey of Scientific Computing in the Cloud.
+**Amelie Chi Zhou**, Bingsheng He, Shadi Ibrahim.
+Full chapter in Big Data: Principle and Paradigms, Wiley press, 2016
+
+Posters
 ---
 
 **[P4]** Performance and Monetary Cost Optimizations for Scientific Workflows in the Cloud: A Probabilistic
