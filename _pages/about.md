@@ -20,6 +20,8 @@ redirect_from:
 ><p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
+[深大超算队招新.](https://amelieczhou.github.io/recruiting/)
+
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
 Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France. Since October 2017, I
@@ -39,11 +41,6 @@ scalable big data management. My papers are published in prestigious internation
 TPDS, IEEE TCC and FGCS) and proceedings (such as SC, HPDC, SIGMOD, ICDE, ICDCS, ICPP, CCGrid
 and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel in 2018 and leading the
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
-
-深大超算队招新
----
-
-Please see more [here](https://amelieczhou.github.io/recruiting/).
 
 
 Research Interests
