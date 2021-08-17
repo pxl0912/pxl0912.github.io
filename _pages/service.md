@@ -10,46 +10,23 @@ I have been regularly participating in conference/workshop organization, program
 Journal Editorships
 ---
 
-> **Editor** of the Springer Future Generation Computer Systems (SCI Index, IF=7.19). Started in 2021.
+> **Editor** of the Springer Future Generation Computer Systems (SCI Index, IF=7.19), Started in 2021.
 
-
-Track Vice-Chair
+Conference Organizing Committee Member
 ---
 > **Track Vice-Chair** of the Machine Learning with HPC Track, IEEE/ACM International Conference for High
-Performance Computing, Networking, Storage, and Analysis (**SC 2022**).
-
-Student Program Co-Chair
----
-> **Student Program Co-Chair of International Conference on Parallel Processing (**ICPP 2022**).
-
-Program Co-Chair
----
-> **Program Co-Chair** of 6th International Parallel Data Systems Workshop (**PDSW@SC2021**), Nov 2021,
-St. Louis, Missouri, USA.
-
-Panel Vice-Chair
----
-> **Panel Vice-Chair** of IEEE/ACM International Conference for High Performance Computing, Networking,
-Storage, and Analysis (**SC 2021**), Nov 2021, St. Louis, Missouri, USA.
-
-Track Co-Chair
----
-> **Track Co-Chair** of Scalable Algorithms and Analytics Track, 27th IEEE International Conference on High
-Performance Computing, Data, and Analytics (**HiPC 2020**), Dec 2020.
-
-Posters and Demo Co-Chair
----
-> **Posters and Demo Co-Chair** of IEEE International Conference on Distributed Computing Systems (**ICDCS 2020**), July 2020, Singapore.
-
-Program Co-Chair
----
-> **Program Co-Chair** of IEEE International Conference on Smart Data (**SmartData-2019**), July 2019, Atlanta, Georgia, USA.
-Track Co-Chair of Big Data Applics. and Experiences Track, IEEE BigData Congress 2018, July 2018, San
-Francisco, CA, USA.
-
-Local Co-Chair
----
-> **Local Co-Chair**, IEEE International Conference on Cloud Computing Technology and Science (**CloudCom 2014**), Dec 2014, Singapore.
+Performance Computing, Networking, Storage, and Analysis (**SC 2022**).<br>
+**Student Program Co-Chair** of International Conference on Parallel Processing (**ICPP 2022**).<br>
+**Program Co-Chair** of 6th International Parallel Data Systems Workshop (**PDSW@SC2021**), Nov 2021,
+St. Louis, Missouri, USA.<br>
+**Panel Vice-Chair** of IEEE/ACM International Conference for High Performance Computing, Networking,
+Storage, and Analysis (**SC 2021**), Nov 2021, St. Louis, Missouri, USA.<br>
+**Track Co-Chair** of Scalable Algorithms and Analytics Track, 27th IEEE International Conference on High
+Performance Computing, Data, and Analytics (**HiPC 2020**), Dec 2020.<br>
+**Posters and Demo Co-Chair** of IEEE International Conference on Distributed Computing Systems (**ICDCS 2020**), July 2020, Singapore.<br>
+**Program Co-Chair** of IEEE International Conference on Smart Data (**SmartData-2019**), July 2019, Atlanta, Georgia, USA.<br>
+**Track Co-Chair** of Big Data Applics. and Experiences Track, IEEE BigData Congress 2018, July 2018, San Francisco, CA, USA.<br>
+**Local Co-Chair**, IEEE International Conference on Cloud Computing Technology and Science (**CloudCom 2014**), Dec 2014, Singapore.
 
 Membership in Technical Program Committees
 ---
@@ -74,7 +51,7 @@ The IEEE International Conference on Parallel and Distributed Systems (**ICPADS*
 The International Workshop on Programming Models and Applications for Multicores and Manycores (**PMAM@PPoPP**): 2020, 2021.<br>
 The International Parallel Data Systems Workshop (**PDSW@SC**): 2019, 2020.<br>
 The International workshop on the Convergence of Extreme Scale Computing and Big Data Analysis (**CEBDA@CCGrid**): 2018, 2019.<br>
-**HPC China**: 2018, 2019.<br>
+**HPC China**: 2018, 2019, 2021.<br>
 **Women in HPC** Workshop in conjunction with HPC China 2015.
 
 
