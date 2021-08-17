@@ -75,11 +75,11 @@ The International Workshop on Programming Models and Applications for Multicores
 The International Parallel Data Systems Workshop (**PDSW@SC**): 2019, 2020.<br>
 The International workshop on the Convergence of Extreme Scale Computing and Big Data Analysis (**CEBDA@CCGrid**): 2018, 2019.<br>
 **HPC China**: 2018, 2019.<br>
-**Women in HPC** Workshop in conjunction with HPC China 2015.<br>
+**Women in HPC** Workshop in conjunction with HPC China 2015.
 
 
  Invited Reviewer for Journals
- ---
+ -----------
  
 > IEEE Transactions on Parallel and Distributed Systems (**TPDS**)<br>
 IEEE Transactions on Cloud Computing (**TCC**)<br>
@@ -93,7 +93,7 @@ Elsevier Journal of Parallel and Distributed Computing (**JPDC**)<br>
 Future Generation Computer Systems (**FGCS**)<br>
 Springer Journal of Supercomputing (**SUPE**)<br>
 International Journal of High Performance Computing and Networking (**IJHPCN**)<br>
-Concurrency and Computation: Practice and Experience (**CCPE**)<br>
+Concurrency and Computation: Practice and Experience (**CCPE**)
 
 
 External/Invited Academic Services
