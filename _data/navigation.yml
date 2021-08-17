@@ -9,14 +9,14 @@ main:
   - title: "Project"
     url: /projects/    
     
-  - title: "Research"
-    url: /research/
+  - title: "Awards"
+    url: /awards/
         
   - title: "Teaching"
     url: /teaching/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Service"
+    url: /service/
     
   - title: "Contact"
     url: /contact/
