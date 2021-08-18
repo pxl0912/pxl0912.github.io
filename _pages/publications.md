@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>, <a href="https://bit.ly/3xRbBoY">Google scholar</a>.
+My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>, <a href="https://scholar.google.com/citations?user=pR-IEhcAAAAJ&hl=en">Google scholar</a>.
 
 Journal Articles
 ----------
