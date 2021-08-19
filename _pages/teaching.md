@@ -57,24 +57,35 @@ Supervision
 
 **Yao Xiao** Oct 2017 to June 2019
 Graduated with Master’s Degree
->Thesis: Research on Privacy Regulation Aware Geo-Distributed Process Mapping Problem. **Now a Ph.D
-student at Shenzhen University**, working with me on exciting optimization problems for parallel and
-distributed systems. Won the Distinguished Graduate Student of Shenzhen University.
-Contributions: System prototypes, IEEE TPDS (3), ICPP 2019.
+>Thesis: Research on Privacy Regulation Aware Geo-Distributed Process Mapping Problem. 
+>
+>First appointment: Ph.D student at Shenzhen University, working with me on exciting optimization problems for parallel and distributed systems. 
+>
+>Contributions: System prototypes, IEEE TPDS (3), ICPP 2019. **Distinguished Graduate Student** of Shenzhen University.
 
 **Bingkun Shen** Oct 2017 to June 2019
 Graduated with Master’s Degree
->Thesis: Performance- and Cost-Efficient Graph Processing in Geo-Distributed Datacenters. **Now an Engineer at Sangfor Technologies Inc**.
-Contributions: System prototypes, IEEE TPDS.
+>Thesis: Performance- and Cost-Efficient Graph Processing in Geo-Distributed Datacenters. 
+>
+>First appointment: Engineer at Sangfor Technologies Inc.
+>
+>Contributions: System prototypes, IEEE TPDS.
 
 **Juanyun Luo** Oct 2018 to June 2021
 Graduated with Master’s Degree
->Thesis: Adaptive Partitioning Methods for Geo-Distributed Graph Processing. **Now an engineer at WeBank**, developing FinTech applications. Contribitions: System prototypes.
+>Thesis: Adaptive Partitioning Methods for Geo-Distributed Graph Processing. 
+>
+>First appointment: Engineer at WeBank, developing FinTech applications. 
+>
+>Contribitions: System prototypes, patents.
 
 **Liu Yang** Oct 2018 to June 2021
 Graduated with Master’s Degree
->Thesis: Interference-Aware I/O Scheduling for SSD-based Burst Buffers. **Now an engineer at China
-Construction Bank**. Contributions: System prototypes.
+>Thesis: Interference-Aware I/O Scheduling for SSD-based Burst Buffers. 
+>
+>First appointment: Engineer at China Construction Bank.
+>
+>Contributions: System prototypes, technical reports.
 
 <!--
 Advised Student Honors
