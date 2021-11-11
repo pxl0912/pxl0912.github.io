@@ -27,8 +27,7 @@ Bio
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in 2016, under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Dr. Bingsheng He</a>. 
 From May 2016 to August 2017, I was a Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, working with <a href="https://people.rennes.inria.fr/Shadi.Ibrahim/">Dr. Shadi Ibrahim</a>. 
-Since October 2017, I joined Shenzhen University as an Assistant Professor. I’m also a member of the National High Performance
-Computing Center (NHPCC) at Shenzhen.
+Since October 2017, I joined Shenzhen University as an Assistant Professor. I'm a recipient of the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing** and the **ACM SIGHPC China Rising Star** in 2021.
 
 I have been actively serving the community by participating in the organizing and reviewing activities
 of international conferences and journals. I have served as a PC member for international conferences in HPC,
@@ -51,6 +50,10 @@ Parallel and Distributed Systems Team (PDST) at Shenzhen University.
 
 Recent Highlights
 ----------
+* **[Award]** I have received the **ACM SIGHPC China Rising Star** award for the year of 2021!
+
+* **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
+
 * **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
 
 * **[Student Program Co-Chair]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
@@ -63,6 +66,10 @@ Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 * **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
 
 * **[Panels Vice-Chair]** Invited to serve as a Vice-Chair for the Panels of **<font color=orange>SC 2021</font>**.
+
+<!---
+  Selected Awards
+  ----------
 
 * **[Track Co-Chair]** Invited to serve as a Track Co-Chair for the Scalable Algorithms and Analytics Track of **<font color=orange>HiPC 2020</font>** .
 
@@ -81,9 +88,7 @@ Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 * **[Program Co-Chair]** Invited to serve as a Program Co-Chair of **<font color=orange>SmartData-2019</font>** .
 
 
-<!---
-  Selected Awards
-  ----------
+
   
   Please see full honors [here](https://amelieczhou.github.io/cv/#honors)
   
