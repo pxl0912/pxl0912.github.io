@@ -7,6 +7,10 @@ author_profile: true
 
 Research Awards
 ---
+**ACM SIGHPC China Rising Star, 2021**
+
+**IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2021**
+
 **Tencent “Rhino-bird” Open-Funded Young Researcher Award, 2020**
 > The “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in computer science in 2020) carrying out frontier scientific research.
 
