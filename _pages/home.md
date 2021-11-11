@@ -28,8 +28,7 @@ author_profile: true
 I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
 Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France. Since October 2017, I
-joined Shenzhen University as an Assistant Professor. I’m also a member of the National High Performance
-Computing Center (NHPCC) at Shenzhen.
+joined Shenzhen University as an Assistant Professor. I'm a recipient of the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing** and the **ACM SIGHPC China Rising Star** in 2021.
 
 I have been actively serving the HPC community by participating in the organizing and reviewing activities
 of international conferences and journals. I have served as a PC member for international conferences in
@@ -52,6 +51,9 @@ My research interests include cloud computing, high performance computing, big d
 
 Recent Highlights
 ----------
+* **[Award]** I have received the **ACM SIGHPC China Rising Star** award for the year of 2021!
+
+* **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
 
 * **[Program Committee]** Invited to serve as a Panels Co-Chair of **SC 2021**.
 
