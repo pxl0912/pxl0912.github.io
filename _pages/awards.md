@@ -7,9 +7,14 @@ author_profile: true
 
 Research Awards
 ---
-**ACM SIGHPC China Rising Star, 2021**
+**<a href="https://www.cikm2021.org/programme/best-reviewers">Best Reviewers Award</a>, CIKM 2021**
+> The award was given to 30 reviewers out of more than 1,600 reviewers during the conference of CIKM 2021.
 
-**IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2021**
+**ACM SIGHPC China Rising Star, 2021**
+> The ACM China Rising Star Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the three recipients of this award in the subfield of High Performance Computing.
+
+**<a href="https://tc.computer.org/tchpc/home-page/page-of-awards/">IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2021</a>**
+> The Award recognizes up to three individuals who have made outstanding, influential, and potentially long-lasting contributions in the field of high-performance computing within five years of receiving their PhD degree as of January 1 of the year of the award.
 
 **Tencent “Rhino-bird” Open-Funded Young Researcher Award, 2020**
 > The “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in computer science in 2020) carrying out frontier scientific research.
