@@ -9,11 +9,14 @@ My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>
 
 Journal Articles
 ----------
+**[J10]** FarSpot: Optimizing Monetary Cost for HPC Applications in the Cloud Spot Market. 
+**Amelie Chi Zhou**, Jianming Lao, Zhoubin Ke, Yi Wang and Rui Mao. 
+IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**) 
 
 **[J9]** Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach.
 **Amelie Chi Zhou**, Weilin Xue, Yao Xiao, Bingsheng He, Shadi Ibrahim and Reynold Cheng.
-IEEE Trans. Parallel Distributed Syst. PrePrints pp. 1-1 (**TPDS 2021**) 
+IEEE Trans. Parallel Distributed Syst. 33(1): 231-248 (**TPDS 2022**) 
 
 **[J8]** An Efficient Parallel Secure Machine Learning Framework on GPUs.
 Feng Zhang, Zheng Chen, Chenyang Zhang, **Amelie Chi Zhou**, Jidong Zhai, Xiaoyong Du.
@@ -51,6 +54,13 @@ IEEE Trans. Cloud Comput. 2(1): 85-98 (**TCC 2014**)
 
 Conference Papers
 ---
+**[C18]** GeoPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers.
+**Amelie Chi Zhou**, Ruibo Qiu, Thomas Lambert, Tristan Allard, Shadi Ibrahim, Amr El Abbadi.
+ACM Symposium on Cloud Computing (**SoCC 2022**)
+
+**[C17]** Adaptive Partitioning for Large-Scale Graph Analytics in Geo-Distributed Data Centers. 
+**Amelie Chi Zhou**, Juanyun Luo, Ruibo Qiu, Haobin Tan, Bingsheng He, Rui Mao. 
+IEEE International Conference on Data Engineering (**ICDE 2022**)
 
 **[C16]** ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs.
 Zheng Chen, Feng Zhang, **Amelie Chi Zhou**, Jidong Zhai, Chenyang Zhang, Xiaoyong Du.
