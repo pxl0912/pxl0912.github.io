@@ -9,7 +9,7 @@ author_profile: true
 ***
 
 <html>
-<p><b style="line-height:50%"> Ph.D, Assistant Professor. </b> </p>
+<p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
 <p><b style="line-height:50%"><a href="http://csse.szu.edu.cn/">College of Computer Science and Software Engineering, Shenzhen University.</a></b></p>
 
@@ -25,7 +25,7 @@ author_profile: true
 
 ***
 
-I am an Assistant Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
+I am an Associate Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
 Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France. Since October 2017, I
 joined Shenzhen University as an Assistant Professor. I'm a recipient of the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing** and the **ACM SIGHPC China Rising Star** in 2021.
