@@ -9,8 +9,8 @@ I have been regularly participating in conference/workshop organization, program
 
 Journal Editorships
 ---
-> **Editor** of Springer Future Generation Computer Systems (SCI Index, IF=7.19), Started in 2021.
-> **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.
+> **Editor** of Springer Future Generation Computer Systems (SCI Index, IF=7.19), Started in 2021.<br>
+> **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
 > **Guest Editor** of Concurrency and Computation: Practice and Experience (SCI Index, IF=1.83), Started in 2022.
 
 Conference Organizing Committee Member
