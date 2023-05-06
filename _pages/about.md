@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size=6>Amelie Chi Zhou (周池)</font>"
+title: "<font size=6>Chen Zhen (陈真)</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,14 +11,14 @@ redirect_from:
 ***
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor </b> </p>
-<p><b style="line-height:50%"><a href="http://csse.szu.edu.cn/">College of Computer Science and Software Engineering, Shenzhen University</a></b></p>
-<p><b style="line-height:50%"><a href="http://nhpcc.szu.edu.cn/web/index.html">National High Performance Computing Center (Shenzhen)</a></b></p>  
+<p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Computer Science and Software Engineering, Shenzhen University</a></b></p>
+<p><b style="line-height:50%"><a href="http://www.msp-lab.net/">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
 </html>
 
 ><p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
-><p><b style="line-height:50%"> Email: <a href="mailto:chi.zhou@szu.edu.cn">chi.zhou@szu.edu.cn</a></b> </p>
-><p><b style="line-height:50%"> Phone: +86 (755) 2653 4207  </b></p>
-><p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
+><p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">chi.zhou@szu.edu.cn</a></b> </p>
+><p><b style="line-height:50%"> Phone: +86  </b></p>
+><p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building,Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
 Bio
