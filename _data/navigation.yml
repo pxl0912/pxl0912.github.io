@@ -17,9 +17,9 @@ main:
     
   - title: "Service"
     url: /service/
-    
-  - title: "Contact"
-    url: /contact/
-  
+
   - title: "Blog Posts"
     url: /year-archive/
+  
+  - title: "Contact"
+    url: /contact/
