@@ -17,7 +17,7 @@ IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**)
 
 *[`PDF`](#PDF)(https://www.markdownguide.org)*
 
-PDF下载[PDF]（pxl0912.github.io/_publications/1.pdf "最好的markdown教程"）
+[`PDF`]（https://pxl0912.github.io/files/1.pdf）
 
 <!--
 ><p><b style="line-height:50%"> Web: <a href="_publications/1.pdf:">_publications/1.pdf</a> </b></p>
