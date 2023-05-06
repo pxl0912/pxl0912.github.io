@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size=6>Chen Zhen (陈真)</font>"
+title: "<font size=6>Zhen Chen(陈真)</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -49,8 +49,10 @@ and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
 -->
 
+<!--
 [深大超算队招新(SZU-HPC Team is recruiting!)](https://amelieczhou.github.io/recruiting/)
 ----
+-->
 
 Recent Highlights
 ----------

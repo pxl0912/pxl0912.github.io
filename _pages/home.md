@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font size=6>陈真</font>"
+title: "<font size=6>Zhen Chen(陈真)</font>"
 permalink: /home/
 author_profile: true
 ---
