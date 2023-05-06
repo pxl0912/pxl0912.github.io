@@ -7,13 +7,18 @@ author_profile: true
 
 Journal Articles
 ----------
-**[J10]** FarSpot: Optimizing Monetary Cost for HPC Applications in the Cloud Spot Market. 
-**Amelie Chi Zhou**, Jianming Lao, Zhoubin Ke, Yi Wang and Rui Mao. 
-IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**) 
+**[1]**	Z. Chen(陈真), J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
 
 [`PDF`](https://pxl0912.github.io/files/1.pdf).
 [`IEEE`](https://pxl0912.github.io/files/1.pdf).
 [`Bibex`](https://pxl0912.github.io/files/1.pdf).
+
+
+
+
+**[J10]** FarSpot: Optimizing Monetary Cost for HPC Applications in the Cloud Spot Market. 
+**Amelie Chi Zhou**, Jianming Lao, Zhoubin Ke, Yi Wang and Rui Mao. 
+IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**) 
 
 My publication list: <a href="https://dblp.org/pid/131/6619.html">Entry@DBLP</a>, <a href="https://scholar.google.com/citations?user=pR-IEhcAAAAJ&hl=en">Google scholar</a>.
 
