@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I teach both undergraduate and graduate courses for CS and non-CS students. I have several topics for Final Year Projects in HPC and cloud computing. Please contact me if you are interested.
+I teach undergraduate courses for CE students. I have several topics on Reconfigurable Intelligent Surface and mesh networking final year design. If you are interested, please contact me.
 
 Curriculum and Course Development
 ---
