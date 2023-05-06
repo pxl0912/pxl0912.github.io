@@ -13,6 +13,7 @@ Journal Articles
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
 [`BIBTEX`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
+
 **[J2]** **Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
 [`PDF`](https://pxl0912.github.io/files/Joint_Altitude_and_Hybrid_Beamspace_Precoding_Optimization_for_UAV-Enabled_Multiuser_mmWave_MIMO_System.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9648018).
