@@ -11,20 +11,22 @@ author_profile: true
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
-<p><b style="line-height:50%"><a href="http://csse.szu.edu.cn/">College of Computer Science and Software Engineering, Shenzhen University.</a></b></p>
+<p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
 
 <p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
 </html>
 
-<p><b style="line-height:50%"> Email: <a href="@szu.edu.cn">chi.zhou@szu.edu.cn </a></b> </p>
+<p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn </a></b> </p>
 
 <p><b style="line-height:50%"> Phone: +86   </b></p>
 
-<p><b width="50%" style="line-height:50%"> Address: L6-511, Polytechnic Building, Shenzhen University South Campus, </b> </p>
+<p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building,Shenzhen University South Campus, </b> </p>
 <p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
 ***
+I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, he has presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, he has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, he is the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; he has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
 
+<!--
 I am an Associate Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
 Nanyang Technological University (NTU) in Singapore in 2016. From May 2016 to August 2017, I was a
 Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, France. Since October 2017, I
@@ -43,6 +45,7 @@ scalable big data management. My papers are published in prestigious internation
 TPDS, IEEE TCC and FGCS) and proceedings (such as SC, HPDC, SIGMOD, ICDE, ICDCS, ICPP, CCGrid
 and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel in 2018 and leading the
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
+-->
 
 Research Interests
 ----------
