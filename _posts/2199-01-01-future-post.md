@@ -1,5 +1,5 @@
 ---
-title: '123'
+title: 'Future Blog'
 date: 2023-09-10
 permalink: /posts/2023/05/blog-post-41/
 tags:
@@ -7,5 +7,5 @@ tags:
   - category1
   - category2
 ---
-
+故事的最后
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
