@@ -12,6 +12,7 @@ Journal Articles
 **[J10]** FarSpot: Optimizing Monetary Cost for HPC Applications in the Cloud Spot Market. 
 **Amelie Chi Zhou**, Jianming Lao, Zhoubin Ke, Yi Wang and Rui Mao. 
 IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**) 
+[`PDF`](#PDF)
 
 **[J9]** Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach.
