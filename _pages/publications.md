@@ -7,11 +7,95 @@ author_profile: true
 
 Journal Articles
 ----------
-**[1]**	Z. Chen(陈真), J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
-
+**[1]**	**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
 [`PDF`](https://pxl0912.github.io/files/1.pdf).
 [`IEEE`](https://pxl0912.github.io/files/1.pdf).
 [`Bibex`](https://pxl0912.github.io/files/1.pdf).
+
+
+**[1]**	**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
+[`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9622178).
+[`Bibex`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
+
+**[2]**	**Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in IEEE Transactions on Vehicular Technology, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
+[`PDF`](https://pxl0912.github.io/files/Joint_Altitude_and_Hybrid_Beamspace_Precoding_Optimization_for_UAV-Enabled_Multiuser_mmWave_MIMO_System.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9648018).
+[`Bibex`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
+
+
+
+**[3]**	**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, G. Chen and K. -K. Wong, " Robust Hybrid Beamforming Design for Multi-RIS Assisted MIMO System with Imperfect CSI," in IEEE Transactions on Wireless Communications, 2022. doi: 10.1109/TWC. 2022.3222218.
+[`PDF`](https://pxl0912.github.io/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9957104).
+[`Bibex`](https://pxl0912.github.io/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.bib).
+
+
+**[4]**	**Z. Chen(陈真)**, J. Tang*, N. Zhao, M. Liu and D. K. C. So, " Hybrid Beamforming with Discrete Phase Shifts for RIS-assisted Multiuser SWIPT System," in IEEE Wireless Communications Letters, 2022.doi: 10.1109/LWC.2022.3218332.
+[`PDF`](https://pxl0912.github.io/files/Hybrid_Beamforming_With_Discrete_Phase_Shifts_for_RIS-Assisted_Multiuser_SWIPT_System.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9957104).
+[`Bibex`](https://pxl0912.github.io/files/Hybrid_Beamforming_With_Discrete_Phase_Shifts_for_RIS-Assisted_Multiuser_SWIPT_System.bib).
+
+
+**[5]**	**Z. Chen(陈真)**, G. Chen, J. Tang*; S. Zhang, D. K. C. So, O. A. Dobre, K. -K. Wong and J. Chambers, "Reconfigurable Intelligent Surface-Assisted B5G/6G Wireless Communications: Challenges, Solution and Future Opportunities," in IEEE Communications Magazine, vol. 61, no. 1, pp. 16-22, January 2023.
+[`PDF`](https://pxl0912.github.io/files/Reconfigurable-Intelligent-Surface-Assisted_B5G_6G_Wireless_Communications_Challenges_Solution_and_Future_Opportunities.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9903378/).
+[`Bibex`](https://pxl0912.github.io/files/Reconfigurable-Intelligent-Surface-Assisted_B5G_6G_Wireless_Communications_Challenges_Solution_and_Future_Opportunities.bib).
+
+
+
+**[6]**	**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Hybrid Evolutionary-Based Sparse Channel Estimation for IRS-Assisted mmWave MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 21, no. 3, pp. 1586-1601, March 2022.
+[`PDF`](https://pxl0912.github.io/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/abstract/document/9521836/).
+[`Bibex`](https://pxl0912.github.io/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).
+
+
+
+**[7]**	**Z. Chen(陈真)**, J. Tang*, H. Tang, X. Zhang, D. K. C. So and K. -K. Wong, "Channel Estimation of IRS-Aided Communication Systems with Hybrid Multiobjective Optimization," ICC 2021 - IEEE International Conference on Communications, 2021, pp. 1-6.
+[`PDF`](https://pxl0912.github.io/files/Channel_Estimation_of_IRS-Aided_Communication_Systems_with_Hybrid_Multiobjective_Optimization.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9500433).
+[`Bibex`](https://pxl0912.github.io/files/Channel_Estimation_of_IRS-Aided_Communication_Systems_with_Hybrid_Multiobjective_Optimization.bib).
+
+
+**[8]**	**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, S. Jin and K. -K. Wong, "Offset Learning based Channel Estimation for IRS-Assisted Indoor Communication," 2021 IEEE Global Communications Conference (GLOBECOM), 2021, pp. 01-06.
+[`PDF`](https://pxl0912.github.io/files/Offset_Learning_based_Channel_Estimation_for_IRS-Assisted_Indoor_Communication.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9685156).
+[`Bibex`](https://pxl0912.github.io/files/Offset_Learning_based_Channel_Estimation_for_IRS-Assisted_Indoor_Communication.bib).
+
+
+**[9]**	**Z. Chen(陈真)**, J. Tang*, X. Du, X. Y. Zhang, Q. Wu and K. -K. Wong, "Joint Location and Channel Error Optimization for Beamforming Design for Multi-RIS Assisted MIMO System," 2022 IEEE 12th Sensor Array and Multichannel Signal Processing Workshop (SAM), 2022, pp. 181-185.
+Estimation for IRS-Assisted Indoor Communication," 2021 IEEE Global Communications Conference (GLOBECOM), 2021, pp. 01-06.
+[`PDF`](https://pxl0912.github.io/files/Joint_Location_and_Channel_Error_Optimization_for_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9827813).
+[`Bibex`](https://pxl0912.github.io/files/Joint_Location_and_Channel_Error_Optimization_for_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System.bib).
+
+
+**[10]** **Z. Chen(陈真)**, J. Tang*, H. Tang, X. Zhang, D. K. C So, N. Zhao, K.-K. Wong., "Hybrid Beamforming Optimization for UAV-Enabled mmWave Beamspace MIMO System," 2021 IEEE 21st International Conference on Communication Technology (ICCT), 2021, pp. 638-643.
+[`PDF`](https://pxl0912.github.io/files/Hybrid_Beamforming_Optimization_for_UAV-Enabled_mmWave_Beamspace_MIMO_System.pdf.pdf).
+[`IEEE`](https://ieeexplore.ieee.org/document/9658041).
+[`Bibex`](https://pxl0912.github.io/files/Hybrid_Beamforming_Optimization_for_UAV-Enabled_mmWave_Beamspace_MIMO_System.pdf.bib).
+
+
+
+
+
+
+
+Conference Papers
+---
+
+
+
+Book Chapters
+---
+
+
+
+
+
+
+
+
 
 
 
