@@ -120,7 +120,7 @@ Conference Papers
 [`BIBTEX`](https://pxl0912.github.io/files/Energy efficient resource allocation for UCA-based OAM-MIMO system.bib).
 
 Book Chapters
----
+---------
 **[BC1]** RISTA-Reconfigurable Intelligent Surface Technology White Paper(2023)
 [`PDF`](https://pxl0912.github.io/files/RISTA-Reconfigurable Intelligent Surface Technology White Paper(2023).pdf).
 [`Link`](http://www.risalliance.com/cn/riswp2023.html).
