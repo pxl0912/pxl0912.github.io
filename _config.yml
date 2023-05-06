@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Amelie Chi Zhou"
+title                    : "Zhen Chen"
 title_separator          : "-"
-name                     : &name "Amelie Chi Zhou"
+name                     : &name "Zhen Chen"
 description              : &description "personal description"
-url                      : https://amelieczhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pxl0912.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amelieczhou/amelieczhou.github.io"
+repository               : "pxl0912/pxl0912.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amelie Chi Zhou"
-  avatar           : "profile.png"
-  bio              : "Ph.D, Associate Professor of CSSE Shenzhen University"
+  name             : "Zhen Chen"
+  avatar           : "ChenZhen.png"
+  bio              : "Ph.D, Associate Professor of CEIE Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pR-IEhcAAAAJ&hl=en"
-  email            : "chi.zhou@szu.edu.cn"
+  email            : "2022001087@email.szu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amelieczhou"
+  github           : "pxl0912"
   google_plus      :
   keybase          :
   instagram        :
