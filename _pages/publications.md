@@ -19,6 +19,10 @@ IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**)
 
 [`PDF`]（https://pxl0912.github.io/files/1.pdf）
 
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
 <!--
 ><p><b style="line-height:50%"> Web: <a href="_publications/1.pdf:">_publications/1.pdf</a> </b></p>
 ><p><b style="line-height:50%"> Pdf:<a href="_publications/1.pdf" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">PDF</button></a>
