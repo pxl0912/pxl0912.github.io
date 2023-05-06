@@ -28,35 +28,13 @@ I mainly research on intelligent reflective surface-assisted wireless communicat
 
 
 <!--
-I am an Associate Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from
-Nanyang Technological University (NTU) in 2016, under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Dr. Bingsheng He</a>. 
-From May 2016 to August 2017, I was a Post-Doc researcher at Inria Rennes Bretagne Atlantique research center, working with <a href="https://people.rennes.inria.fr/Shadi.Ibrahim/">Dr. Shadi Ibrahim</a>. 
-Since October 2017, I joined Shenzhen University as an Assistant Professor. I'm a recipient of the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing** and the **ACM SIGHPC China Rising Star** in 2021.
-
-I have been actively serving the community by participating in the organizing and reviewing activities
-of international conferences and journals. I have served as a PC member for international conferences in HPC,
-cloud and parallel and distributed systems (USENIX FAST, ACM/IEEE SC, ACM HPDC, IEEE ICDCS,
-IEEE ICPP, IEEE Cluster, ACM/IEEE CCGrid, ACM CIKM); and as a Program co-chair for the PDSW 2021/2022
-(in conjunction with SC21/SC22), IEEE SmartData-2019; and as a Track co-chair for IEEE HiPC 2020 and IEEE
-BigData Congress 2018; and as the Panel vice-chair for SC 2021, the Demo and Poster co-chair for ICDCS 2020. 
-Most recently I am serving as a vice-chair for the ML with HPC track of SC 2022, as a co-chair for the students program of ICPP 2022, and as an Associate Editor for IEEE Transactions on Parallel and Distributed Computing.
-
-My current research interests lie in high performance computing, cloud computing, and file and storage systems. More specifically,
-I’m interested in various resource optimization problems in parallel and distributed systems for efficient and
-scalable big data management. My papers are published in prestigious international journals (such as IEEE
-TPDS, IEEE TCC and FGCS) and proceedings (such as ACM/IEEE SC, ACM HPDC, SIGMOD, ICDE, ICDCS, ICPP, CCGrid
-and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel (Level C) in 2018 and leading the
-Parallel and Distributed Systems Team (PDST) at Shenzhen University.
--->
-
-<!--
 [深大超算队招新(SZU-HPC Team is recruiting!)](https://amelieczhou.github.io/recruiting/)
 ----
 -->
 
 Recent Highlights
 ----------
-* **[Paper]** 2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
+* **[Paper]** 模板：2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
 
 * **[Paper]** 2022: Our paper on adaptive graph partitioning in geo-distributed datacenters is accepted by **<font color=orange>IEEE ICDE</font>**.
 
