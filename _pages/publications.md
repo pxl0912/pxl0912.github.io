@@ -13,15 +13,11 @@ Journal Articles
 **Amelie Chi Zhou**, Jianming Lao, Zhoubin Ke, Yi Wang and Rui Mao. 
 IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**) 
 
-*[`PDF`](#PDF)（href="_publications/1.pdf" ）*
 
-*[`PDF`](#PDF)(https://www.markdownguide.org)*
+**[EFF](https://pxl0912.github.io/files/1.pdf)**.
+*[Markdown Guide](https://pxl0912.github.io/files/1.pdf)*.
 
-[`PDF`]（https://pxl0912.github.io/files/1.pdf）
-
-I love supporting the **[EFF](https://pxl0912.github.io/files/1.pdf)**.
-This is the *[Markdown Guide](https://pxl0912.github.io/files/1.pdf)*.
-See the section on [`code`](https://pxl0912.github.io/files/1.pdf).
+[`PDF`](https://pxl0912.github.io/files/1.pdf).[`Bibex`](https://pxl0912.github.io/files/1.pdf).
 
 <!--
 ><p><b style="line-height:50%"> Web: <a href="_publications/1.pdf:">_publications/1.pdf</a> </b></p>
