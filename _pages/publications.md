@@ -17,6 +17,9 @@ IEEE Trans. Parallel Distributed Syst. 33(11): 2955-2967 (**TPDS 2022**)
 
 *[`PDF`](#PDF)(https://www.markdownguide.org)*
 
+><p><b style="line-height:50%"> Web: <a href="_publications/1.pdf:">_publications/1.pdf</a> </b></p>
+><p><b style="line-height:50%"> Pdf:<a href="_publications/1.pdf" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">PDF</button></a>
+
 **[J9]** Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
 Approach.
 **Amelie Chi Zhou**, Weilin Xue, Yao Xiao, Bingsheng He, Shadi Ibrahim and Reynold Cheng.
