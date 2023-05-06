@@ -15,7 +15,7 @@ redirect_from:
 <p><b style="line-height:50%"><a href="http://www.msp-lab.net/">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
 </html>
 
-><p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
+><p><b style="line-height:50%"> Web: <a href="http://ceie.szu.edu.cn/:">http://ceie.szu.edu.cn/</a> </b></p>
 ><p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86  </b></p>
 ><p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building,Shenzhen University South Campus, </b> </p>
