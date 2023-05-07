@@ -30,35 +30,6 @@ Bio
 
 <!--Publications内容介绍-->
 
-<div id="publications" class="container">
-	<h3 class="header">Publications</h3>
-  
-<div class="row">
-    <div class="col s12 m2">
-    <figure>
-      <img class="responsive-img" src="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf.png">
-    </figure>
-    </div>
-    <div class="col s12 m10">
-      <b>Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication</b><br>
-      <b>Z. Chen,</b>J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong<br>
-      IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022.<br>
-[`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
-<!--PDF文件下载，添加文件到pubpdf文件夹，放文件名称-->   
-      <a href="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">PDF</button></a>
-
-<!--IEEE：放论文下载链接-->   
-      <a href="https://ieeexplore.ieee.org/document/9622178" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">IEEE</button></a>
- 
-<!--bib文件下载，添加文件到pubbib文件夹，放文件名称-->   
-  <a href="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">bibtex</button></a>
-
-<!--CODE：放代码的链接地址
-      <a href="https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">code</button></a>
--->
-    </div>
-  </div>
-
 <!--
 [深大超算队招新(SZU-HPC Team is recruiting!)](https://amelieczhou.github.io/recruiting/)
 ----
