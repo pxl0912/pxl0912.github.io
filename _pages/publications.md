@@ -10,9 +10,10 @@ Journal Articles
 ----------
 
   
-<div class="row">
     <div class="col s12 m2">
+    <figure>
       <img class="responsive-img" src="files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.png">
+    </figure>
     </div>
     <div class="col s12 m10">
       <b>Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication</b><br>
@@ -26,13 +27,12 @@ Journal Articles
       <a href="https://ieeexplore.ieee.org/document/9622178" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">IEEE</button></a>
  
 <!--bib文件下载，添加文件到pubbib文件夹，放文件名称-->   
-  <a href="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">bibtex</button></a>
+     <a href="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">bibtex</button></a>
 
 <!--CODE：放代码的链接地址
       <a href="https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">code</button></a>
 -->
     </div>
-</div>
 
 
 
