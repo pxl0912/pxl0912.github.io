@@ -34,8 +34,11 @@ Journal Articles
 -->
     </div>
 
+<!--
 <p align="justify">
 </p>
+-->
+
 
 **[J1]** <p align="justify">**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. </p>
 [`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
