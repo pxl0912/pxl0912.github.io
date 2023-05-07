@@ -25,23 +25,25 @@ Bio
 ----------
 
 
-<p align="justify ">I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, he has presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, he has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, he is the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; he has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
+<p align="justify">I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, I have presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, I has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, I am the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; I has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
 </p>
 
-!--Publications内容介绍-->
+<!--Publications内容介绍-->
 
 <div id="publications" class="container">
 	<h3 class="header">Publications</h3>
   
 <div class="row">
     <div class="col s12 m2">
+    <figure>
       <img class="responsive-img" src="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf.png">
+    </figure>
     </div>
     <div class="col s12 m10">
       <b>Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication</b><br>
       <b>Z. Chen,</b>J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong<br>
       IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 1, pp. 41-55, Jan. 2022.<br>
-
+[`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
 <!--PDF文件下载，添加文件到pubpdf文件夹，放文件名称-->   
       <a href="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">PDF</button></a>
 
