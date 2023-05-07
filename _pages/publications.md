@@ -8,6 +8,7 @@ My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google
 
 Journal Articles
 ----------
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1595307552342&di=f5567b6e4490ee2ac89555ceaefeaf67&imgtype=0&src=http%3A%2F%2Ffile.mumayi.com%2Fforum%2F201401%2F16%2F231735cfp4046206r4i705.jpg" style="width:200px" />
 
 
 <div id="publications" class="container">
