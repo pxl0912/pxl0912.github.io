@@ -9,8 +9,6 @@ My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google
 Journal Articles
 ----------
 
-<div id="publications" class="container">
-	<h3 class="header">Publications</h3>
   
 <div class="row">
     <div class="col s12 m2">
@@ -34,9 +32,7 @@ Journal Articles
       <a href="https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">code</button></a>
 -->
     </div>
-  </div>
-
-
+</div>
 
 
 
