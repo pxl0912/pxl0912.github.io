@@ -9,7 +9,8 @@ My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google
 Journal Articles
 ----------
 
-  
+<div id="publications" class="container">
+	<h3 class="header">Publications</h3> 
     <div class="col s12 m2">
     <figure>
       <img class="responsive-img" src="files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.png">
@@ -33,25 +34,22 @@ Journal Articles
       <a href="https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection" class="white-text" target="_blank"><button class="waves-effect waves-light btn blue lighten-2">code</button></a>
 -->
     </div>
-
-<!--
-<p align="justify">
-</p>
--->
+  </div>
 
 
-**[J1]** <p align="justify">**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. </p>
+
+**[J1]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
 [`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
 [`BIBTEX`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
 
-**[J2]** <p align="justify">**Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.</p>
+**[J2]** **Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
 [`PDF`](https://pxl0912.github.io/files/Joint_Altitude_and_Hybrid_Beamspace_Precoding_Optimization_for_UAV-Enabled_Multiuser_mmWave_MIMO_System.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9648018).
 [`BIBTEX`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
-**[J3]** <p align="justify">**Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, G. Chen and K. -K. Wong, " Robust Hybrid Beamforming Design for Multi-RIS Assisted MIMO System with Imperfect CSI," in **IEEE Transactions on Wireless Communications**, 2022. doi: 10.1109/TWC. 2022.3222218.</p>
+**[J3]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, G. Chen and K. -K. Wong, " Robust Hybrid Beamforming Design for Multi-RIS Assisted MIMO System with Imperfect CSI," in **IEEE Transactions on Wireless Communications**, 2022. doi: 10.1109/TWC. 2022.3222218.
 [`PDF`](https://pxl0912.github.io/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9957104).
 [`BIBTEX`](https://pxl0912.github.io/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.bib).
