@@ -13,7 +13,7 @@ Journal Articles
 	<h3 class="header">Publications</h3> 
     <div class="col s12 m2">
     <figure>
-      <img class="responsive-img" src="files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.png">
+      <img class="responsive-img" src="https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.png">
     </figure>
     </div>
     <div class="col s12 m10">
