@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google scholar</a>.
+My publication list: <a href="https://">Xuelian Peng</a>, <a href="https://">Google scholar</a>.
 
 Journal Articles
 ----------
-
+<!--Publications内容介绍
 **[J1]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
 [`PDF`](https://xuelianp.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
@@ -127,7 +127,7 @@ Book Chapters
 [`PDF`](https://xuelianp.github.io/files/RISTA-Reconfigurable Intelligent Surface Technology White Paper(2023).pdf).
 [`Link`](http://www.risalliance.com/cn/riswp2023.html).
 
-
+-->
 
 
 <!--
