@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font size=6>Zhen Chen(陈真)</font>"
+title: "<font size=6>Xuelian Peng(彭雪连)</font>"
 permalink: /home/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 ***
 
 <html>
-<p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
+<p><b style="line-height:50%"> Graduate student </b> </p>
 
 <p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
 
@@ -24,7 +24,10 @@ author_profile: true
 <p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
 ***
-I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, he has presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, he has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, he is the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; he has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
+<p align = "justify"> 
+I received the B.Eng. degree in information and communication engineering from Guangxi Normal University in 2022, and I am currently pursuing a Master's degree at the School of Electronic and Information Engineering at Shenzhen University. My research interests  include  signal processing for wireless communications, intelligent reflecting surface-assisted communication, and deep learning for wireless communications."
+</p>
+
 
 <!--
 I am an Associate Professor at Shenzhen University, China. I obtained my Ph.D. in Computer Science from

@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhen Chen"
-  avatar           : "ChenZhen.png"
-  bio              : "Ph.D, Associate Professor of CEIE Shenzhen University"
+  name             : "Xuelian Peng"
+  avatar           : "Xuelian Peng.png"
+  bio              : "Graduate Student of CEIE Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/"
-  email            : "2022001087@email.szu.edu.cn"
+  email            : "2200432015@email.szu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuelianp09"
+  github           : "xuelianp"
   google_plus      :
   keybase          :
   instagram        :
