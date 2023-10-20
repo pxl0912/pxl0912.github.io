@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog'
-date: 2023-09-10
-permalink: /posts/2023/05/blog-post-41/
+date: 2023-10-20
+permalink: /posts/2023/10/blog-post-41/
 tags:
   - cool posts
   - category1

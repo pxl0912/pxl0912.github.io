@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-> <p><b style="line-height:50%"> Email: <a href="mailto:2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn</a> </b> </p> 
+> <p><b style="line-height:50%"> Email: <a href="mailto:2200432015@email.szu.edu.cn">2200432015@email.szu.edu.cn</a> </b> </p> 
 ><p><b style="line-height:50%"> Phone: +86   </b></p>
 ><p><b width="50%" style="line-height:50%"> N701, Electronics Building,Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
