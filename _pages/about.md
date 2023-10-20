@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size=6>Zhen Chen(陈真)</font>"
+title: "<font size=6>Xue Lian Peng(彭雪连)</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
