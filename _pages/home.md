@@ -16,7 +16,7 @@ author_profile: true
 <p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
 </html>
 
-<p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn </a></b> </p>
+<p><b style="line-height:50%"> Email: <a href="2200432015@email.szu.edu.cn">2200432015@email.szu.edu.cn </a></b> </p>
 
 <p><b style="line-height:50%"> Phone: +86   </b></p>
 
@@ -49,7 +49,7 @@ TPDS, IEEE TCC and FGCS) and proceedings (such as SC, HPDC, SIGMOD, ICDE, ICDCS,
 and Cluster). I am the recipient of the Shenzhen Overseas High-Caliber Personnel in 2018 and leading the
 Parallel and Distributed Systems Team (PDST) at Shenzhen University.
 -->
-
+<!--
 Research Interests
 ----------
 
@@ -152,3 +152,4 @@ Please see full list at [DBLP](https://dblp.org/pers/z/Zhou:Amelie_Chi) and [Goo
 * **[CloudCom] Amelie Chi Zhou**, Bingsheng He, Simplified Resource Provisioning for Workflows in IaaS Clouds, in CloudCom 2014, **Best PhD Consortium Award**, Singapore, Dec 2014.
 
 * **[TCC] Amelie Chi Zhou**, Bingsheng He, Transformation-based Monetary Cost Optimizations for Workflows in the Cloud, in IEEE TCC 2(1): 85-98 (2014), **Spotlight article of the issue, invited presentation in IEEE CloudCom 2014**.
+-->

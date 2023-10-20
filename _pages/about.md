@@ -16,16 +16,14 @@ redirect_from:
 </html>
 
 ><p><b style="line-height:50%"> Web: <a href="http://ceie.szu.edu.cn/:">http://ceie.szu.edu.cn/</a> </b></p>
-><p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn</a></b> </p>
+><p><b style="line-height:50%"> Email: <a href="2200432015@email.szu.edu.cn">2200432015@email.szu.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86  </b></p>
 ><p><b width="50%" style="line-height:50%"> Electronics Building,Shenzhen University South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
 
 Bio
 ----------
-
-
-<p align="justify">I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, I have presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, I has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, I am the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; I has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
+<p align="justify">I received the B.Eng. degree in information and communication engineering  from Guangxi Normal University in 2022, and I am currently pursuing a Master's degree at the School of Electronic and Information Engineering at Shenzhen University. My research interests  include  signal processing for wireless communications, intelligent reflecting surface-assisted communication, and deep learning for wireless communications
 </p>
 
 <!--Publications内容介绍-->
@@ -34,7 +32,7 @@ Bio
 [深大超算队招新(SZU-HPC Team is recruiting!)](https://amelieczhou.github.io/recruiting/)
 ----
 -->
-
+<!--
 Recent Highlights
 ----------
 * **[Paper]** 模板：2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
@@ -57,7 +55,7 @@ Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
 * **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
 
 * **[Panels Vice-Chair]** Invited to serve as a Vice-Chair for the Panels of **<font color=orange>SC 2021</font>**.
-
+-->
 <!---
   Selected Awards
   ----------
