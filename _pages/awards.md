@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 Research Awards
+Third Prize in the 11th National "Lanqiao Cup" Software and Information Technology Professionals Competition Provincial Competition.
+
+First Prize in the 12th National "Lanqiao Cup" Software and Information Technology Professionals Competition Provincial Competition, and Third Prize in the National Competition.
+
+National Inspirational Scholarship and University-level Outstanding Student for the academic years 2018-2019, 2019-2020, and 2020-2021.
+
+College-level Outstanding Member, University-level Outstanding Member, and University-level Outstanding Student Leader for the academic years 2018-2019, 2019-2020, and 2020-2021.
+
+"Special" Academic Scholarship for the academic year 2022.
+
+<!--
 ---
 **<a href="https://www.cikm2021.org/programme/best-reviewers">Best Reviewers Award</a>, CIKM 2021**
 > The award was given to 30 reviewers out of more than 1,600 reviewers during the conference of CIKM 2021.
@@ -46,3 +57,4 @@ Advised Student Honors
 * Ms. Jiexin Chen and Mr. Jiarong Zhong won Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) in 2020.
 * Mr. Yao Xiao is awarded the Distinguished Graduate Student of Shenzhen university in 2019. (10 out of 112)
 * The SZU-HPC Team won 3rd prize in the Optimization track of the Parallel Application Challenge (PAC) 2017 and 2018.
+--!>
