@@ -23,7 +23,8 @@ redirect_from:
 
 Bio
 ----------
-<p align="justify">I received the B.Eng. degree in information and communication engineering  from Guangxi Normal University in 2022, and I am currently pursuing a Master's degree at the School of Electronic and Information Engineering at Shenzhen University. My research interests  include  signal processing for wireless communications, intelligent reflecting surface-assisted communication, and deep learning for wireless communications
+<p align="justify">
+I received the B.Eng. degree in information and communication engineering  from Guangxi Normal University in 2022, and I am currently pursuing a Master's degree at the School of Electronic and Information Engineering at Shenzhen University. My research interests  include  signal processing for wireless communications, intelligent reflecting surface-assisted communication, and deep learning for wireless communications
 </p>
 
 <!--Publications内容介绍-->
