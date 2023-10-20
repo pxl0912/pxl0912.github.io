@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Research Awards
+----------
 Third Prize in the 11th National "Lanqiao Cup" Software and Information Technology Professionals Competition Provincial Competition.
 
 First Prize in the 12th National "Lanqiao Cup" Software and Information Technology Professionals Competition Provincial Competition, and Third Prize in the National Competition.
